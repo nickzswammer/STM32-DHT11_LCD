@@ -1,0 +1,26 @@
+# STM32CubeIDE build files
+/build/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.out
+*.axf
+
+# STM32CubeIDE-specific files (optional)
+.cproject
+.project
+.settings/
+
+# Backup/temporary files
+*.swp
+*.bak
+*~
+.DS_Store
+
+# VSCode
+.vscode/
+
