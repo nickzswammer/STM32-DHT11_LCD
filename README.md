@@ -1,4 +1,4 @@
-# STM32-DHT11_LCD
+# STM32F401RE Nucleo - DHT11 Temperature and Humidity with LCD Display 
 
 First bareish metal STM32 project!
 
