@@ -1,6 +1,6 @@
 # STM32-DHT11_LCD
 
-First bare metal STM32 project!
+First bareish metal STM32 project!
 
 **Features:**
 - CMSIS drivers and LL libraries only (mostly).
